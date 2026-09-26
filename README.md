@@ -1,4 +1,4 @@
-# codeAlpha_TASK-_2_Phishing-Awareness-Training_
+# Phishing-Awareness-Training_
 Objective
 To provide awareness and training on phishing attacks, helping users recognize phishing attempts, understand common tactics, and apply safe practices to prevent falling victim.
 Description
